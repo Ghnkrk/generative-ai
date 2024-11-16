@@ -2,7 +2,7 @@
 
 > **From Prototype to Production in Minutes.**
 
-|                                                                 |                                                                                                                                      |
+|                                                                  |                                                                                                                                      |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Authors**                                                     | [Elia Secchi](https://github.com/eliasecchig), [Lorenzo Spataro](https://github.com/lspataroG)                                       |
 | [**1-Minute Video Overview**](https://youtu.be/D_VQYTczBpc)     | [<img src="https://img.youtube.com/vi/D_VQYTczBpc/maxresdefault.jpg" width="100" alt="Preview Video">](https://youtu.be/D_VQYTczBpc) |
